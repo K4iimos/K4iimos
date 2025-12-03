@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, i'm Kaiimos👋
 
 <!--
 **K4iimos/K4iimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have 5 years of experience in IT support.
+
+Passionate about cybersecurity, I started practicing and learning offensive security by late 2025, mainly on **HackTheBox** and through **CTF** competitions.
+
+Currently, I'm preparing for **eJPT** (Junior Penetration Tester) and **TryHackMe PT1 certifications**.
+
+Besides cybersecurity, I'm also learning programming—having built showcase websites with HTML & CSS a few years ago, and now focusing on **Python** and **JavaScript**.
+
