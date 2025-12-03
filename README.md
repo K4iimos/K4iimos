@@ -20,5 +20,5 @@ Passionate about cybersecurity, I started practicing and learning offensive secu
 
 Currently, I'm preparing for **eJPT** (Junior Penetration Tester) and **TryHackMe PT1 certifications**.
 
-Besides cybersecurity, I'm also learning programming—having built showcase websites with HTML & CSS a few years ago, and now focusing on **Python** and **JavaScript**.
+Besides cybersecurity, I'm also learning programming having built showcase websites with HTML & CSS a few years ago, and now focusing on **Python** and **JavaScript**.
 
