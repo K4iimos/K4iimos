@@ -1,24 +1,19 @@
-## Hi there, i'm Kaiimos👋
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"> i'm Kaiimos</h1>
+<p align="center">
+  <a href="https://papamica.com"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Tech+IT+and+Cybersecurity+Enthusiast;"></a>
+</p>
 
-<!--
-**K4iimos/K4iimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About Me</h2>
 
-Here are some ideas to get you started:
+- 🖥️ IT Support professional with 5 years of experience
+- 🔐 Passionate about Cybersecurity, currently working on labs & CTF challenges
+- 🤖 Curious about Robotics and emerging technologies
+- 💻 Improving my coding skills through practice and learning
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+<div align="center">
+<h2> My WebSite : [Soon] </h2>
+<br>
 -->
-I have 5 years of experience in IT support.
-
-Passionate about cybersecurity, I started practicing and learning offensive security by late 2025, mainly on **HackTheBox** and through **CTF** competitions.
-
-Currently, I'm preparing for **eJPT** (Junior Penetration Tester) and **TryHackMe PT1 certifications**.
-
-Besides cybersecurity, I'm also learning programming having built showcase websites with HTML & CSS a few years ago, and now focusing on **Python** and **JavaScript**.
-
